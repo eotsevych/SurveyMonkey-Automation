@@ -7,13 +7,13 @@
 ### Setup 
 1. Clone projects 
 ```
-  > git clone 
+  > git clone https://github.com/EvgeniyOtsevich/aqa_carbyne.git
 ```
 2. For running tests 
 ```
   > mvn clean test
 ```
-3. For getting Allure report
+3. For getting Allure report (serve)
 ```
-  > mvn allure:serve
+  > mvn io.qameta.allure:allure-maven:serve
 ```
