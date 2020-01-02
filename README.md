@@ -2,7 +2,14 @@
 
 ### Requirement:
 - Java 8
-- Maven 3.5.0
+- Maven
+
+### Tech:
+- Java 8
+- Maven
+- Junit 5
+- Rest Assured
+- Allure
 
 ### Setup 
 1. Clone projects 
